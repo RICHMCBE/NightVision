@@ -1,0 +1,6 @@
+name: NightVision
+main: RoMo\NightVision\NightVision
+author: RoMo_Official
+version: 1.0.0
+api:
+  - 5.0.0
